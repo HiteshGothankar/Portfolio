@@ -447,7 +447,7 @@ onBeforeUnmount(() => {
                 <div
                   class="shadow-[0_0_20px_5px_rgba(59,130,246,0.2)] w-full h-[300px] md:h-[350px] lg:h-[360px] xl:h-[365px] group relative bg-[#040f1d] rounded-xl overflow-hidden transition-all duration-500 hover:-translate-y-2">
                   <div class="relative overflow-hidden h-50 md:h-60 lg:h-65 w-full">
-                    <img src="./public/images/Techhatch.png" alt="Techhatch"
+                    <img src="/images/Techhatch.png" alt="Techhatch"
                       class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div
                       class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
@@ -458,13 +458,13 @@ onBeforeUnmount(() => {
                         <div
                           class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
                           <a href="https://techhatch-template.vercel.app" target="_blank">
-                            <img src="./public/images/icons/play.png" alt="">
+                            <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
                           class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
                           <a href="https://github.com/HiteshGothankar/TechHatch" target="_blank">
-                            <img src="./public/images/github.png" alt="">
+                            <img src="/images/github.png" alt="">
                           </a>
                         </div>
                       </div>
@@ -490,7 +490,7 @@ onBeforeUnmount(() => {
                 <div
                   class="shadow-[0_0_20px_5px_rgba(59,130,246,0.2)] w-full h-[300px] md:h-[350px] lg:h-[360px] xl:h-[365px] group relative bg-[#040f1d] rounded-xl overflow-hidden transition-all duration-500 hover:-translate-y-2">
                   <div class="relative overflow-hidden h-50 md:h-60 lg:h-65 w-full">
-                    <img src="./public/images/spylt.png" alt="SPYLT"
+                    <img src="/images/spylt.png" alt="SPYLT"
                       class="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-110">
                     <div
                       class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
@@ -501,13 +501,13 @@ onBeforeUnmount(() => {
                         <div
                           class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
                           <a href="https://animated-spylt.vercel.app" target="_blank">
-                            <img src="./public/images/icons/play.png" alt="">
+                            <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
                           class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
                           <a href="https://github.com/HiteshGothankar/SPYLT" target="_blank">
-                            <img src="./public/images/github.png" alt="">
+                            <img src="/images/github.png" alt="">
                           </a>
                         </div>
                       </div>
@@ -533,7 +533,7 @@ onBeforeUnmount(() => {
                 <div
                   class="shadow-[0_0_20px_5px_rgba(59,130,246,0.2)] w-full h-[300px] md:h-[350px] lg:h-[360px] xl:h-[365px] group relative bg-[#040f1d] rounded-xl overflow-hidden transition-all duration-500 hover:-translate-y-2">
                   <div class="relative overflow-hidden h-50 md:h-60 lg:h-65 w-full">
-                    <img src="./public/images/weatherapp.png" alt="Weather App"
+                    <img src="/images/weatherapp.png" alt="Weather App"
                       class="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-110">
                     <div
                       class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
@@ -544,13 +544,13 @@ onBeforeUnmount(() => {
                         <div
                           class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
                           <a href="https://see-today-weather.vercel.app" target="_blank">
-                            <img src="./public/images/icons/play.png" alt="">
+                            <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
                           class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
                           <a href="https://github.com/HiteshGothankar/Weather-App" target="_blank">
-                            <img src="./public/images/github.png" alt="">
+                            <img src="/images/github.png" alt="">
                           </a>
                         </div>
                       </div>
