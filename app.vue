@@ -117,14 +117,14 @@ onBeforeUnmount(() => {
   <div class="relative w-full min-h-screen">
     <div class="relative z-10 bg-gradient-to-r from-[#041b35] via-[#042951] to-[#041b35]/95 min-h-screen px-3 md:px-2">
 
-      <Squares :speed="0.2" :square-size="40" direction="up" border-color="#181818" z-index="-z-100" />
-      <CustomCursor />
+      <!-- <Squares :speed="0.2" :square-size="40" direction="up" border-color="#181818" z-index="-z-50" /> -->
 
       <Navbar />
+      <CustomCursor />
 
       <!-- Hero Section -->
       <section id="home">
-        <div class="min-h-screen overflow-hidden pb-17 lg:pb-0">
+        <div class="min-h-screen overflow-hidden pb-10 lg:pb-0">
           <!-- Main Content -->
           <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-12 items-center justify-center min-h-[80vh]">
@@ -167,7 +167,7 @@ onBeforeUnmount(() => {
               </div>
 
               <!-- right content -->
-              <div class="h-65 md:h-95 lg:h-auto mx-auto order-1 lg:order-2 overflow-hidden">
+              <div class="h-68 md:h-95 lg:h-auto mx-auto order-1 lg:order-2 overflow-hidden">
                 <img src="/public/images/heroimg.webp"
                   class="w-full h-full object-cover drop-shadow-xs drop-shadow-black" alt="">
               </div>
@@ -175,8 +175,8 @@ onBeforeUnmount(() => {
             </div>
 
             <!-- animate scroll dot -->
-            <div class="hidden lg:flex justify-center items-center relative lg:bottom-9 xl:bottom-7 cursor-pointer">
-              <div class="h-[60px] w-[30px] border-3 border-white rounded-3xl flex justify-center bg-white/10 p-2">
+            <div class="hidden lg:flex justify-center items-center relative lg:bottom-9 xl:bottom-7">
+              <div class="h-[60px] w-[30px] border-3 border-white rounded-3xl flex justify-center cursor-pointer bg-white/10 p-2">
                 <div class="h-[12px] w-[12px] rounded-full bg-white animate-scroll-dot"></div>
               </div>
             </div>
@@ -456,13 +456,13 @@ onBeforeUnmount(() => {
                       class="absolute bottom-0 left-0 right-0 p-4 translate-y-10 opacity-100 lg:opacity-0 group-hover:translate-y-0 lg:group-hover:opacity-100 transition-all duration-500">
                       <div class="flex flex-col mb-10 lg:flex-row lg:mb-0 justify-end items-end gap-3">
                         <div
-                          class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
+                          class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
                           <a href="https://techhatch-template.vercel.app" target="_blank">
                             <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
-                          class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
+                          class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
                           <a href="https://github.com/HiteshGothankar/TechHatch" target="_blank">
                             <img src="/images/github.png" alt="">
                           </a>
@@ -499,13 +499,13 @@ onBeforeUnmount(() => {
                       class="absolute bottom-0 left-0 right-0 p-4 translate-y-10 opacity-100 lg:opacity-0 group-hover:translate-y-0 lg:group-hover:opacity-100 transition-all duration-500">
                       <div class="flex flex-col mb-10 lg:flex-row lg:mb-0 justify-end items-end gap-3">
                         <div
-                          class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
+                          class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
                           <a href="https://animated-spylt.vercel.app" target="_blank">
                             <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
-                          class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
+                          class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
                           <a href="https://github.com/HiteshGothankar/SPYLT" target="_blank">
                             <img src="/images/github.png" alt="">
                           </a>
@@ -542,13 +542,13 @@ onBeforeUnmount(() => {
                       class="absolute bottom-0 left-0 right-0 p-4 translate-y-10 opacity-100 lg:opacity-0 group-hover:translate-y-0 lg:group-hover:opacity-100 transition-all duration-500">
                       <div class="flex flex-col mb-10 lg:flex-row lg:mb-0 justify-end items-end gap-3">
                         <div
-                          class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
+                          class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
                           <a href="https://see-today-weather.vercel.app" target="_blank">
                             <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
-                          class="cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-2">
+                          class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
                           <a href="https://github.com/HiteshGothankar/Weather-App" target="_blank">
                             <img src="/images/github.png" alt="">
                           </a>

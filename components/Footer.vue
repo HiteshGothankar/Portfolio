@@ -10,15 +10,15 @@
             <div class="mx-auto flex justify-center items-center">
                 <div class="flex gap-5 md:gap-7">
                     <a href="https://github.com/HiteshGothankar" target="_blank"
-                        class="hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.4)] hover:-translate-y-2 transition-all duration-500 cursor-pointer w-8 h-8 md:w-9 md:h-9 lg:w-10 lg:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-1">
+                        class="hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.4)] transition-all duration-500 cursor-pointer w-8 h-8 md:w-9 md:h-9 lg:w-10 lg:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-1">
                         <img src="../public/images/icons/github.png" alt="">
                     </a>
                     <a href="https://www.linkedin.com/in/hitesh-gothankar" target="_blank"
-                        class="hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.4)] hover:-translate-y-2 transition-all duration-500 cursor-pointer w-8 h-8 md:w-9 md:h-9 lg:w-10 lg:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-1">
+                        class="hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.4)] transition-all duration-500 cursor-pointer w-8 h-8 md:w-9 md:h-9 lg:w-10 lg:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-1">
                         <img src="../public/images/linkedin.png" alt="">
                     </a>
                     <a href="mailto:gothankarhitesh05@gmail.com" target="_blank"
-                        class="hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.4)] hover:-translate-y-2 transition-all duration-500 cursor-pointer w-8 h-8 md:w-9 md:h-9 lg:w-10 lg:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-1">
+                        class="hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.4)] transition-all duration-500 cursor-pointer w-8 h-8 md:w-9 md:h-9 lg:w-10 lg:h-10 rounded-full bg-gradient-to-r from-white to-white text-center flex justify-center items-center p-1">
                         <img src="../public/images/mail.webp" alt="">
                     </a>
                 </div>
