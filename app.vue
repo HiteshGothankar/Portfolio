@@ -447,7 +447,7 @@ onBeforeUnmount(() => {
                 <div
                   class="shadow-[0_0_20px_5px_rgba(59,130,246,0.2)] w-full h-[300px] md:h-[350px] lg:h-[360px] xl:h-[365px] group relative bg-[#040f1d] rounded-xl overflow-hidden transition-all duration-500 hover:-translate-y-2">
                   <div class="relative overflow-hidden h-50 md:h-60 lg:h-65 w-full">
-                    <img src="/images/Techhatch.png" alt="Techhatch"
+                    <img src="/images/TechHatch.png" alt="Techhatch"
                       class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div
                       class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
