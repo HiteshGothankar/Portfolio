@@ -26,7 +26,7 @@
         </div>
         <div class="bg-[#040f1d] absolute bottom-0 w-full py-3">
             <div class="text-gray-200 font-medium text-center text-xs md:text-sm lg:text-[15px] xl:text-[17px]">Design
-                and Built by Hitesh &copy; 2025</div>
+                and Built by Hitesh &copy; {{ new Date().getFullYear() }}</div>
         </div>
     </div>
 
