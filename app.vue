@@ -168,7 +168,7 @@ onBeforeUnmount(() => {
 
               <!-- right content -->
               <div class="h-68 md:h-95 lg:h-auto mx-auto order-1 lg:order-2 overflow-hidden">
-                <img src="/public/images/heroimg.webp"
+                <img src="/public/images/hero-section-img.png"
                   class="w-full h-full object-cover drop-shadow-xs drop-shadow-black" alt="">
               </div>
 
