@@ -167,7 +167,7 @@ onBeforeUnmount(() => {
               </div>
 
               <!-- right content -->
-              <div class="h-68 md:h-95 lg:h-auto mx-auto order-1 lg:order-2 overflow-hidden">
+              <div class="h-57 md:h-90 lg:h-auto mx-auto order-1 lg:order-2 overflow-hidden mt-8 lg:mt-0">
                 <img src="/public/images/hero-section-img.png"
                   class="w-full h-full object-cover drop-shadow-xs drop-shadow-black" alt="">
               </div>
