@@ -533,7 +533,7 @@ onBeforeUnmount(() => {
                 <div
                   class="shadow-[0_0_20px_5px_rgba(59,130,246,0.2)] w-full h-[300px] md:h-[350px] lg:h-[360px] xl:h-[365px] group relative bg-[#040f1d] rounded-xl overflow-hidden transition-all duration-500 hover:-translate-y-2">
                   <div class="relative overflow-hidden h-50 md:h-60 lg:h-65 w-full">
-                    <img src="/images/weatherapp.png" alt="Weather App"
+                    <img src="/images/NoteGrid.jpg" alt="Weather App"
                       class="w-full h-full object-cover object-center transition-transform duration-700">
                     <div
                       class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
@@ -543,13 +543,13 @@ onBeforeUnmount(() => {
                       <div class="flex flex-col mb-10 lg:flex-row lg:mb-0 justify-end items-end gap-3">
                         <div
                           class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
-                          <a href="https://see-today-weather.vercel.app" target="_blank">
+                          <a href="https://mern-notes-app-kohl.vercel.app" target="_blank">
                             <img src="/images/icons/play.png" alt="">
                           </a>
                         </div>
                         <div
                           class="border border-gray-800 cursor-pointer w-9 h-9 md:w-10 md:h-10 rounded-full bg-white text-center flex justify-center items-center p-2">
-                          <a href="https://github.com/HiteshGothankar/Weather-App" target="_blank">
+                          <a href="https://github.com/HiteshGothankar/MERN_NOTES_APP" target="_blank">
                             <img src="/images/github.png" alt="">
                           </a>
                         </div>
@@ -560,10 +560,10 @@ onBeforeUnmount(() => {
                   <div class="p-5 w-full h-auto">
                     <div class="flex justify-between items-start">
                       <div>
-                        <h3 class="text-xl md:text-2xl font-bold text-white mb-2">Weather App<i
+                        <h3 class="text-xl md:text-2xl font-bold text-white mb-2">NoteGrid<i
                             class="fa-solid fa-arrow-up-right-from-square" style="color: #395886"></i></h3>
                         <p class="text-[13px] md:text-sm font-semibold">
-                          <span class="text-green-600">#Nuxt&nbsp;&nbsp;</span>
+                          <span class="text-green-600">#MERN Stack&nbsp;&nbsp;</span>
                           <span class="text-sky-600">#Tailwind CSS</span>
                         </p>
                       </div>
